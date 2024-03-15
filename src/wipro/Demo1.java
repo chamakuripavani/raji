@@ -1,7 +1,7 @@
-public class demo1
+public class Demo1
   {
-    public static void main (string[] args)
+    public static void main (String [] args)
     {
-      system.out.println("method Demo1")
+      System.out.println("method Demo1" );
         }
   }
