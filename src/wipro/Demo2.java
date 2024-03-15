@@ -1,4 +1,4 @@
-public package gitchanges
+public package gitpractice;
   public class Demo2
   {
     public static void main (string[]args)
